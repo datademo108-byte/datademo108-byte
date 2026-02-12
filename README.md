@@ -1,3 +1,9 @@
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</div>
+
+
 # Hi 👋, I'm vivek Agrahari
 
 <div align="center">
@@ -9,10 +15,6 @@
 
 </div>
 
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</div>
 
 
 ## 🚀 About Me
