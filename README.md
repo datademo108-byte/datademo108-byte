@@ -61,4 +61,8 @@ I'm a **Python Developer**, **Open Source Contributor**, **YouTuber**, **Competi
 
 ---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</div>
+
 
