@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm vivek Agrahari
 
-![3D Contribution Graph](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/main/profile-3d-contrib/profile-green-animate.svg)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
 
 
 
