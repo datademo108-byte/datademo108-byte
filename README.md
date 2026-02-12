@@ -50,31 +50,6 @@ I'm a **Python Developer**, **Open Source Contributor**, **YouTuber**, **Competi
 
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
-
-</div>
-
-## 🏆 GitHub Profile Trophy
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-## 📈 GitHub Activity Graph
-
-<div align="center">
-  
-[![Your GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
@@ -86,17 +61,4 @@ I'm a **Python Developer**, **Open Source Contributor**, **YouTuber**, **Competi
 
 ---
 
-<div align="center">
-  
-### 💡 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-</div>
-
----
-
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet)
-
-</div>
