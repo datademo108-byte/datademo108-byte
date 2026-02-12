@@ -9,6 +9,12 @@
 
 </div>
 
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</div>
+
+
 ## 🚀 About Me
 I'm a **Python Developer**, **Open Source Contributor**, **YouTuber**, **Competitive Programmer**, and **Online Trainer**.
 
@@ -60,9 +66,5 @@ I'm a **Python Developer**, **Open Source Contributor**, **YouTuber**, **Competi
 <!-- BLOG:END -->
 
 ---
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</div>
 
 
