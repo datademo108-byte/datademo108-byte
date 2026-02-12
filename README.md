@@ -1,6 +1,4 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C5CE7&center=true&vCenter=true&width=435&lines=Python+Developer;Open+Source+Contributor;AI+Enthusiast;Computer+Vision+Expert)](https://git.io/typing-svg)
 
 # Hi 👋, I'm vivek Agrahari
 
