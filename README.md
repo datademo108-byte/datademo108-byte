@@ -3,9 +3,6 @@
 # Hi 👋, I'm vivek Agrahari
 
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</div>
 
 
 <div align="center">
@@ -21,6 +18,11 @@
 
 ## 🚀 About Me
 I'm a **Python Developer**, **Open Source Contributor**, **YouTuber**, **Competitive Programmer**, and **Online Trainer**.
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</div>
+
 
 - 🔭 I’m currently working on **PythonLife**
 - 🌱 I’m currently learning **Artificial Intelligence**
