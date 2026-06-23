@@ -17,7 +17,7 @@
 
 
 ## 🚀 About Me
-I'm a **Python Developer**, **Open Source Contributor**, **YouTuber**, **Competitive Programmer**, and **Online Trainer**.
+I'm a **Full stack Developer**, **Open Source Contributor**, **YouTuber**, **Competitive Programmer**, and **Online Trainer**.
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
